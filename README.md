@@ -38,7 +38,7 @@ The following endpoints are available to use:
 * READ
     * HTTP Method: GET 
     * URL: localhost:8080/employee/report/{id}
-    * RESPONSE: Compensation
+    * RESPONSE: ReportingStructrue
 ```
 The Employee has a JSON schema of:
 ```json
